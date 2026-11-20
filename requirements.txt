@@ -1,0 +1,4 @@
+aiogram>=3.13,<4
+python-dotenv>=1.0
+# нужен только для socks-прокси (PROXY=socks5://...)
+aiohttp-socks>=0.9
